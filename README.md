@@ -1,2 +1,2 @@
 # hello-world
-study-code
+study-code.
